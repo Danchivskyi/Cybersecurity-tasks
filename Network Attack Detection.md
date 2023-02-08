@@ -6,7 +6,7 @@ Jest to podstawowy szablon dla programu w Pythonie, który wykrywa ataki sieciow
 
 Aby uruchomić program, zapisz kod w pliku z rozszerzeniem .py i uruchom następujące polecenie w terminalu lub wierszu polecenia:
 
-{% highlight javascript linenos %}
-python network_attack_detection.py
-{% endhighlight %}
 
+```
+python network_attack_detection.py
+```
